@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **.NET | TS | Angular**
 
-- 📫 How to reach me ** [Linkedin](linkedin.com/in/konrad-dzięcioł-235a8523a)  | konradd990212@gmail.com**
+- 📫 How to reach me ** [Linkedin](https://linkedin.com/in/konrad-dzięcioł-235a8523a)  | konradd990212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

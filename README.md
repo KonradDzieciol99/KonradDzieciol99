@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on an internal project at the company where I’m employed
+- 🔭 I’m currently working on an internal .NET/Vue project for my employer
     
 - ⚙️ I’ve also created [Workflow](https://github.com/KonradDzieciol99/Workflow)
   

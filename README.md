@@ -1,6 +1,8 @@
-- 🔭 I’m currently working on [Workflow](https://github.com/KonradDzieciol99/Workflow)
-
-- 🌱 I’m currently learning **.NET | TS | Angular**
+- 🔭 I’m currently working on an internal project at the company where I’m employed
+    
+- ⚙️ I’ve also created [Workflow](https://github.com/KonradDzieciol99/Workflow)
+  
+- 🌱 I’m currently learning **.NET | C#**
 
 - 📫 How to reach me ** [Linkedin](https://linkedin.com/in/konrad-dzięcioł-235a8523a)  | konradd990212@gmail.com**
 
